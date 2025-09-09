@@ -673,7 +673,7 @@ This project was inspired by the need for accessible, comprehensive healthcare m
 **Connect with me:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-bsrajputx95-black?style=flat-square&logo=github)](https://github.com/bsrajputx95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavani--singh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhavani-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavani--singh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhavani-singh-191883358)
 [![Twitter](https://img.shields.io/badge/Twitter-@bsrajputx95-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/bsrajputx95)
 [![Email](https://img.shields.io/badge/Email-bhavanisinghx17@gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavanisinghx17@gmail.com)
 
